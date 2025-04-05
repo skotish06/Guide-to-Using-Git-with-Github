@@ -67,3 +67,9 @@ git config --global user.name "Your Name"
 git config --global user.email "email@example.com"
 ```
 
+## 🛠️ Git Tips: Cloning and Pulling from GitHub
+
+```bash
+git clone <repo-url>       # to clone it the first time
+cd <repo-name>             # go into the repo folder
+git pull origin main       # pull latest updates from GitHub
